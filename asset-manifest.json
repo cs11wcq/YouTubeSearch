@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https;//cs11wcq.github.io/YouTubeSearch/static/css/main.4a966e5b.chunk.css",
-    "main.js": "https;//cs11wcq.github.io/YouTubeSearch/static/js/main.e373173d.chunk.js",
-    "main.js.map": "https;//cs11wcq.github.io/YouTubeSearch/static/js/main.e373173d.chunk.js.map",
-    "runtime-main.js": "https;//cs11wcq.github.io/YouTubeSearch/static/js/runtime-main.c79f2794.js",
-    "runtime-main.js.map": "https;//cs11wcq.github.io/YouTubeSearch/static/js/runtime-main.c79f2794.js.map",
-    "static/js/2.cc265b15.chunk.js": "https;//cs11wcq.github.io/YouTubeSearch/static/js/2.cc265b15.chunk.js",
-    "static/js/2.cc265b15.chunk.js.map": "https;//cs11wcq.github.io/YouTubeSearch/static/js/2.cc265b15.chunk.js.map",
-    "index.html": "https;//cs11wcq.github.io/YouTubeSearch/index.html",
-    "precache-manifest.aa65ad8389d65299298fffac4cf0b30f.js": "https;//cs11wcq.github.io/YouTubeSearch/precache-manifest.aa65ad8389d65299298fffac4cf0b30f.js",
-    "service-worker.js": "https;//cs11wcq.github.io/YouTubeSearch/service-worker.js",
-    "static/css/main.4a966e5b.chunk.css.map": "https;//cs11wcq.github.io/YouTubeSearch/static/css/main.4a966e5b.chunk.css.map",
-    "static/js/2.cc265b15.chunk.js.LICENSE": "https;//cs11wcq.github.io/YouTubeSearch/static/js/2.cc265b15.chunk.js.LICENSE"
+    "main.css": "/YouTubeSearch/static/css/main.4a966e5b.chunk.css",
+    "main.js": "/YouTubeSearch/static/js/main.e373173d.chunk.js",
+    "main.js.map": "/YouTubeSearch/static/js/main.e373173d.chunk.js.map",
+    "runtime-main.js": "/YouTubeSearch/static/js/runtime-main.5b9b022e.js",
+    "runtime-main.js.map": "/YouTubeSearch/static/js/runtime-main.5b9b022e.js.map",
+    "static/js/2.cc265b15.chunk.js": "/YouTubeSearch/static/js/2.cc265b15.chunk.js",
+    "static/js/2.cc265b15.chunk.js.map": "/YouTubeSearch/static/js/2.cc265b15.chunk.js.map",
+    "index.html": "/YouTubeSearch/index.html",
+    "precache-manifest.34620272eb3acce004a9ea2c2510b2fd.js": "/YouTubeSearch/precache-manifest.34620272eb3acce004a9ea2c2510b2fd.js",
+    "service-worker.js": "/YouTubeSearch/service-worker.js",
+    "static/css/main.4a966e5b.chunk.css.map": "/YouTubeSearch/static/css/main.4a966e5b.chunk.css.map",
+    "static/js/2.cc265b15.chunk.js.LICENSE": "/YouTubeSearch/static/js/2.cc265b15.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.c79f2794.js",
+    "static/js/runtime-main.5b9b022e.js",
     "static/js/2.cc265b15.chunk.js",
     "static/css/main.4a966e5b.chunk.css",
     "static/js/main.e373173d.chunk.js"
